@@ -14,7 +14,19 @@
 - Manejo de timeouts para consultas que no responden.
 - Fácil de extender agregando nuevos proveedores de DNS o dominios de prueba.
 - Evita resultados falsos gracias a múltiples consultas por dominio y fallback a TCP.  
-- Extensible y configurable.  
+- Extensible y configurable.
+
+## Servdidores DNS incluidos por defecto
+- Cloudflare
+- Google
+- Quad9
+- NextDNS
+- OpenDNS
+- AdGuard
+- CleanBrowsing
+- YandexDNS
+- OpenNIC
+
 
 ## Registro en archivo (log)
 
